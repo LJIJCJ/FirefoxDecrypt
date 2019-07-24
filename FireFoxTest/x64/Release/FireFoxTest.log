@@ -1,0 +1,9 @@
+﻿  formatChange.cpp
+  test.cpp
+D:\repos\FireFoxTest\FireFoxTest\Decrypt.h(56,5): warning C4267:  “参数”: 从“size_t”转换到“PRUint32”，可能丢失数据
+  正在生成代码
+  1 of 934 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FireFoxTest.vcxproj -> D:\repos\FireFoxTest\x64\Release\FireFoxTest.exe

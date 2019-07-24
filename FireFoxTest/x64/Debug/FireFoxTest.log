@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\repos\FireFoxTest\FireFoxTest\Decrypt.h(57,5): warning C4267:  “参数”: 从“size_t”转换到“PRUint32”，可能丢失数据
+  FireFoxTest.vcxproj -> D:\repos\FireFoxTest\x64\Debug\FireFoxTest.exe
